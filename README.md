@@ -12,5 +12,11 @@ options:
   
   -f, -file F      Specify the password file
 
+![image](https://github.com/user-attachments/assets/e90bf5fe-20ce-464e-b1d6-0406caeaa6c6)
+
+
+
+  
+
   ## Reference
   https://haveibeenpwned.com/api/v3
