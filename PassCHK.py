@@ -24,7 +24,7 @@ def send_request(text_password_list, hash_password_list):
             else:
                 flag = "False"
         if flag == "True":
-            print("password: " + password+"\n" + "result: " + CLR_RED + "Pwned!!" + CLR_END, end="")
+            print("password: " + password+"\n" + "result: " + CLR_RED + "Pwned!!" + CLR_END)
         else:
             print("password: " + password+"\n" + "result: " + CLR_GREEN + "No pwned!!" + CLR_END)  
 
